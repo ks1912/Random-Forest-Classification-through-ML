@@ -22,4 +22,6 @@ So green region and red region are used to say how many people willl buy the pro
 
 # Tested
 ---------------------------------------------------------------------
-It has been Tested on windows only. For Linux and macOS this particular code in the file may or may not work.
+It has been tested successfully on windows only. For Linux and macOS this particular code in the file may or may not work.
+
+
